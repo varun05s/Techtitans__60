@@ -1,0 +1,38 @@
+.App-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background-color: #333;
+  }
+  
+  .logo-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 50px;
+    width: 130px;
+    margin-right: 15px;
+  }
+  
+  .site-name {
+    color: white;
+    font-size: 24px;
+  }
+  
+  .nav-section {
+    display: flex;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  
